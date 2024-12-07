@@ -66,10 +66,3 @@ The analysis includes:
 - **Results:**  
   Saved confusion matrices, classification reports, and summary tables for reference.
 
-## License
-
-This project is released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and findings, provided appropriate credit is given.
-
-## Contact
-
-For questions, suggestions, or collaborations, please open an issue in this repository or reach out to the repository owner.
