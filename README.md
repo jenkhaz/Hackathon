@@ -1,7 +1,7 @@
 # EECE 490 Hackathon
 # Personality Traits and Smoking Behavior Analysis
 
-This repository explores the relationship between personality traits, sociodemographic factors, lifestyle variables, and smoking behaviors in a dataset of approximately 200 participants. The primary focus is on predicting outcomes such as the number of cigarettes smoked per day (CigsPerDay), time to first cigarette (TimeToFirstCig), and related patterns.
+This repository explores the relationship between personality traits, sociodemographic factors, lifestyle variables, and smoking behaviors in a dataset of approximately 200 participants. The primary focus is on predicting outcomes such as the number of cigarettes smoked per day (CigsPerDay), time to first cigarette (TimeToFirstCig), and social media hours (SocialMediaHours).
 
 ## Project Overview
 
